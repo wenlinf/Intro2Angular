@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Intro2angular
 
 Building a todo list with angular.js
